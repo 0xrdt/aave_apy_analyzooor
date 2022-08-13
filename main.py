@@ -36,7 +36,7 @@ methodology.write("""
 	
 	This app is written in Python, using Streamlit, Plotly, Subgrounds and other libs
 
-	You can find the source code of this app here
+	You can find the source code of this app [here](https://github.com/0xrdt/aave_apy_analyzooor)
 """)
 
 st.header("Initial Parameters")
