@@ -1,3 +1,4 @@
 subgrounds==0.2.0
 plotly
 streamlit
+statsmodels

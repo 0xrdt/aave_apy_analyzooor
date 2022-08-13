@@ -16,7 +16,7 @@ st.title("AAVE APY Analyzooor")
 
 st.warning("Loading the data may take a while (approximately 30s/month per market)")
 
-st.markdown('check our landing page: [analyzooor.notawizard.xyz](http://analyzooor.notawizard.xyz/)')
+st.markdown('check out our landing page: [analyzooor.notawizard.xyz](http://analyzooor.notawizard.xyz/)')
 
 wtf = st.expander("WTF?")
 wtf.write("""
